@@ -1,0 +1,32 @@
+Animal,Type,Habitat,Diet,Lifespan,Endangered
+Lion,Mammal,Grasslands,Carnivore,20,False
+Penguin,Bird,Antarctica,Carnivore,15,False
+Elephant,Mammal,Jungle,Herbivore,60,True
+Giraffe,Mammal,Savannah,Herbivore,25,False
+Dolphin,Mammal,Ocean,Carnivore,30,False
+Tiger,Mammal,Jungle,Carnivore,15,True
+Kangaroo,Mammal,Grasslands,Herbivore,20,False
+Parrot,Bird,Rainforest,Herbivore,10,False
+Panda,Mammal,Mountains,Herbivore,15,True
+Cheetah,Mammal,Grasslands,Carnivore,12,False
+Gorilla,Mammal,Jungle,Herbivore,35,False
+Zebra,Mammal,Savannah,Herbivore,25,False
+Eagle,Bird,Mountains,Carnivore,20,False
+Koala,Mammal,Eucalyptus Forest,Herbivore,15,False
+Polar Bear,Mammal,Arctic,Carnivore,25,True
+Koala,Bird,Eucalyptus Forest,Herbivore,15,False
+Hippopotamus,Mammal,Riverside,Herbivore,40,False
+Penguin,Bird,Arctic,Carnivore,20,False
+Kangaroo,Mammal,Australia,Herbivore,18,False
+Leopard,Mammal,Jungle,Carnivore,12,False
+Dolphin,Mammal,Seas,Carnivore,25,False
+Giraffe,Mammal,Grasslands,Herbivore,22,False
+Toucan,Bird,Rainforest,Herbivore,8,False
+Elephant,Mammal,Savannah,Herbivore,55,True
+Cheetah,Mammal,Savannah,Carnivore,10,False
+Penguin,Bird,Antarctica,Carnivore,18,False
+Kangaroo,Mammal,Grasslands,Herbivore,22,False
+Panda,Mammal,Mountains,Herbivore,18,True
+Tiger,Mammal,Jungle,Carnivore,14,True
+Hippopotamus,Mammal,Riverside,Herbivore,38,False
+
